@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">160717023_donasiku</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_donation">DonationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Donasiku by 160717023</string>
+    <string name="nav_header_subtitle"></string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_main">Donasiku</string>
+    <string name="menu_donation">Donasi</string>
+    <string name="menu_add_needs">Tambah kebutuhan</string>
+
+    <string-array name="needs">
+        <item>-- Pilih Kebutuhan --</item>
+        <item>Masker N95</item>
+        <item>Pakaian Hamzat</item>
+        <item>Hand Sanitizer</item>
+        <item>Nasal Swab</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

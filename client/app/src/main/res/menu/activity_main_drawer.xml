@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_main"
+            android:icon="@drawable/ic_donate"
+            android:title="@string/menu_main" />
+        <item
+            android:id="@+id/nav_donation"
+            android:icon="@drawable/ic_accessibility"
+            android:title="@string/menu_donation" />
+        <item
+            android:id="@+id/nav_add_needs"
+            android:icon="@drawable/ic_add_circle_outline"
+            android:title="@string/menu_add_needs" />
+    </group>
+</menu>
